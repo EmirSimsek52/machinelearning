@@ -1,1 +1,3 @@
 # machinelearning
+
+MUHAMMED EMİR ŞİMŞEK MACHINE LEARNING Ödevi 2104031005
